@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+#banner{
+	margin-top:20px;
+	position:relative;
+border: 2px solid #FFF;
+}
+#banner img{
+	width:100%;
+	height:100%;
+}
+@media (min-width:500px) {
+	#banner{
+		margin-top:35px;
+	}
+	
+	}
